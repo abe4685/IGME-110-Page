@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+body {
+    width: 80%;
+}
+
+h2{
+    font-family:'Roboto Slab'
+}
+
+p, blockquote {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
